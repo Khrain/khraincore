@@ -1,0 +1,21 @@
+{
+  "environmentSettings": {
+    // Testing 
+         "webSite": {
+    "name": "KhrainPortal",
+    "location": "West US"
+  },
+        "databases": [
+            {
+                "connectionStringName": "",
+                "databaseName": "",
+                "serverName": "",
+                "user": "",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": ""
+            }
+        ]
+    }
+}
